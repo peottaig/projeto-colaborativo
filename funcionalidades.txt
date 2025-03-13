@@ -1,0 +1,27 @@
+Funcionalidades do Projeto Colaborativo 5:
+
+1. Autenticação de Usuários
+    - Registro de novos usuários
+    - Login e logout
+    - Recuperação de senha
+
+2. Gerenciamento de Tarefas
+    - Criação de novas tarefas
+    - Edição de tarefas existentes
+    - Exclusão de tarefas
+    - Atribuição de tarefas a usuários
+
+3. Colaboração em Tempo Real
+    - Chat em tempo real
+    - Notificações de atividades
+    - Compartilhamento de arquivos
+
+4. Relatórios e Análises
+    - Geração de relatórios de progresso
+    - Análise de desempenho de usuários
+    - Visualização de estatísticas do projeto
+
+5. Configurações do Sistema
+    - Personalização de perfil de usuário
+    - Configurações de privacidade
+    - Preferências de notificação
